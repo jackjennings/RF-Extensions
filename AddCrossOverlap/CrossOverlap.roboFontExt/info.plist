@@ -7,7 +7,7 @@
 	<key>developer</key>
 	<string>Thom Janssen</string>
 	<key>developerURL</key>
-	<string>http://www.hallotype.nl</string>
+	<string>https://github.com/thomgb</string>
 	<key>html</key>
 	<false/>
 	<key>launchAtStartUp</key>
@@ -24,9 +24,10 @@
 	<real>1430851989.4236901</real>
 	<key>version</key>
 	<string>0.4</string>
-	<key>repository</key>
-	<string>thomgb/RF-Extensions</string>
-	<key>extensionPath</key>
-	<string>AddCrossOverlap/CrossOverlap.roboFontExt</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+    		<key>repository</key>
+    		<string>thomgb/RF-Extensions/AddCrossOverlap/CrossOverlap.roboFontExt</string>
+	</dict>
 </dict>
 </plist>
