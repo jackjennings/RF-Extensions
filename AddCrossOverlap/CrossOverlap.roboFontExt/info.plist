@@ -24,9 +24,10 @@
 	<real>1430851989.4236901</real>
 	<key>version</key>
 	<string>0.4</string>
-    <key>repository</key>
-    <string>thomgb</string>
-    <key>extensionPath</key>
-    <string>CrossOverlap.roboFontExt</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>thomgb/RF-Extensions</string>
+	</dict>
 </dict>
 </plist>
